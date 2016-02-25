@@ -25,12 +25,20 @@ Currently looking for a role which gives me the opportunity to continue progress
 
 * Developed a recruitment market from nothing to being one of the top performant, supporting myself and two juniors at the time I left
 * Helped grow recruitment brands across the entire UK for a wide variety of organisations from tiny start ups to large multinationals
-* Held responsibility for the entire recruitment lifecycle including new business development, maintaining and growing developed accounts and sourcing and supporting candidates during the process
+* Held responsibility for the entire recruitment lifecycle including new business development, maintaining and growing developed accounts, sourcing and supporting candidates during the process
 * Success while working in both B2B and B2C sales environments
 
 #### Training, Support & Mentorship
 
 ## Projects
+
+Project | Description | Built With | Tested With
+--- | --- | --- | ---
+[Job Trackr](https://github.com/michaellennox/jobber) | An application built in a short 2 week period which is designed to ease the frustrations of searching for a job. Combines an open database of potential companies who might hire you with an application tracking system so you can remember what has gone on | Python, Flask, Flask-Restful, Postgres /w SQLAlchemy, JavaScript, AngularJS, SCSS, HTML5 | Flask-Testing, nose, Karma, Protractor
+[netstix](https://github.com/michaellennox/netstix) | An achievement tracking application to extend the sticker system currently used by Makers Academy. It was built in a short 2 day hackathon style event (although is fully tested!). Available in the wild [here](https://netstix.herokuapp.com/) | JavaScript, NodeJS, ExpressJS, MongoDB /w Mongoose, AngularJS, HTML5, CSS3 | Jasmine, Frisby, Karma, Protractor
+[NotInstagram](https://github.com/michaellennox/instagram-challenge) | A small instagram clone written over a weekend during the Makers Academy course | Ruby, Rails, Postgres /w ActiveRecord, HTML5, CSS3 | RSpec, Capybara
+[Chitter](https://github.com/michaellennox/chitter-challenge) | Another small clone (with just as inventive a name). Written over a weekend during my first month at makers. It is available in the wild [here](http://chitter.michaellennox.me/) | Ruby, Sinatra, Postgres /w DataMapper, HTML5, CSS3 | RSpec, Capybara
+[Personal Site](https://github.com/michaellennox/michaellennox.github.io) | My personal website written before I started at Makers. Certain elements need updating to my current level. My blog can be found in the wild [here](http://www.michaellennox.me/blog/) | HTML5, CSS3, Jekyll | -
 
 ## Experience
 
@@ -61,15 +69,16 @@ __Mathematics and Business Studies (_2012 - 2015_)__
 
 __Bachelor of Medicine, Bachelor of Surgery (MBBS)__
 
-* Came to London to study Medicine and then discovered I'm not very interested in Human biology.
+* Came to London to study Medicine, left to pursue something I felt slightly more passionate about
 
 ## Other
 
-* Love: painting, novels, music, logic puzzles
+* Love: painting, novels, music, logical challenges
 * Play: 4 instruments (2 to a good level)
 * Hobbies: miniature gaming, card games
 
 ## Contact
 
 michael@michaellennox.me
+
 [michaellennox.me/blog](http://www.michaellennox.me/blog/)
