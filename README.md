@@ -16,10 +16,10 @@ Currently looking for a role which gives me the opportunity to continue progress
 * Main languages: Ruby, JavaScript, Python
 * Built apps with frameworks including: Rails, Django, AngularJS, ExpressJS, Sinatra, Flask
 * Love testing, comfortable with: RSpec, Capybara, Selenium (ruby/js/python bindings), unittest, nose, Jasmine, Mocha, Karma, Protractor and a few more obscure ones
-* Built clean and aesthetically pleasing UIs with HTML5, CSS3, SCSS and various templating language
+* Created clean and aesthetically pleasing UIs with HTML5, CSS3, SCSS and various templating language
 * Experience working with both SQL and NoSQL DBs
 * Good understanding of OOP principles such as SOLID and DRY
-* Love following modern development methodologies including XP, TDD/BDD, agile(kanban)
+* Love following modern development methodologies including XP, TDD/BDD, agile, pair programming
 
 #### Technical Recruitment, Business Development & Account Management
 
@@ -52,7 +52,11 @@ _Gateway_
 
 ## Education
 
-#### Makers Academy
+#### Makers Academy (_Oct 2015 - Feb 2016_)
+
+* Intensive 12 week bootcamp focused on developing a mindset and attitude within junior developers to always aim to 'build things right'
+* Worked with a very wide variety of languages and technologies
+* Developed my love of testing and writing good quality code
 
 #### Open University (_2012 - Ongoing_)
 
