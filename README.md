@@ -42,7 +42,7 @@ Project | Description | Built With | Tested With
 
 ## Hackathons
 
-__Tesla and Wider EV Ecosystem - Hackathon 1.0 (_27th Feb 2016_)
+__Tesla and Wider EV Ecosystem - Hackathon 1.0 (_27th Feb 2016_)__
 
 ## Experience
 
