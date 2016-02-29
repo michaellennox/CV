@@ -40,7 +40,15 @@ Project | Description | Built With | Tested With
 [Chitter](https://github.com/michaellennox/chitter-challenge) | Another small clone (with just as inventive a name). Written over a weekend during my first month at makers. It is available in the wild [here](http://chitter.michaellennox.me/) | Ruby, Sinatra, Postgres /w DataMapper, HTML5, CSS3 | RSpec, Capybara
 [Personal Site](https://github.com/michaellennox/michaellennox.github.io) | My personal website written before I started at Makers. Certain elements need updating to my current level. My blog can be found in the wild [here](http://www.michaellennox.me/blog/) | HTML5, CSS3, Jekyll | -
 
+## Hackathons
+
+__Tesla and Wider EV Ecosystem - Hackathon 1.0 (_27th Feb 2016_)
+
 ## Experience
+
+__Alumni Helper (_Feb 2016 - _)__
+
+_Makers Academy_
 
 __Senior Technical Recruiter (_Mar 2013 - Nov 2014_)__
 
