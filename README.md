@@ -46,7 +46,7 @@ __Tesla and Wider EV Ecosystem - Hackathon 1.0 (_27th Feb 2016_)__
 
 ## Experience
 
-__Alumni Helper (_Feb 2016 - _)__
+__Alumni Helper (_Feb 2016 -_ )__
 
 _Makers Academy_
 
