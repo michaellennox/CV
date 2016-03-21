@@ -42,7 +42,19 @@ Project | Description | Built With | Tested With
 
 ## Hackathons
 
+__MondoHack \#IV (_16th-17th Apr 2016_)__
+
+_Upcoming, who knows!_
+
 __Tesla and Wider EV Ecosystem - Hackathon 1.0 (_27th Feb 2016_)__
+
+_Built a Node server which allows your smart car to talk to your smart house_
+
+## Talks
+
+__LNUG (_27th Apr 2016_)__
+
+_Upcoming talk I'm due to give. Provisionally titled 'What learning to code in 12 weeks really means'_
 
 ## Experience
 
