@@ -30,21 +30,27 @@ Currently looking for a role which gives me the opportunity to continue progress
 
 #### Training, Support & Mentorship
 
+* Currently working as an alumni helper at Makers Academy where I help current students with problems and development concepts
+* Previously have trained and mentored juniors in sales positions who have gone on to be very successful in their fields
+* Have a very large amount of patience and find helping others develop and grow truly exciting
+
 ## Projects
 
 Project | Description | Built With | Tested With
 --- | --- | --- | ---
+[Makers Idea Hub](https://github.com/michaellennox/makers_idea_hub) | Ongoing personal project to develop an open idea hub linking ongoing projects, problem statements and ideas to people who might be interested in working on them | Ruby, Rails, Postgres /w ActiveRecord, HTML5(Slim), CSS3 | RSpec, Capybara
+TiddlerTime | Currently helping another Makers student launch the first version of their start up - aimed at connecting busy parents with Children's activty providers | Ruby, Rails, Postgres /w ActiveRecord, HTML5(ERB), CSS3 | RSpec, Capybara
 [Job Trackr](https://github.com/michaellennox/jobber) | An application built in a short 2 week period which is designed to ease the frustrations of searching for a job. Combines an open database of potential companies who might hire you with an application tracking system so you can remember what has gone on | Python, Flask, Flask-Restful, Postgres /w SQLAlchemy, JavaScript, AngularJS, SCSS, HTML5 | Flask-Testing, nose, Karma, Protractor
 [netstix](https://github.com/michaellennox/netstix) | An achievement tracking application to extend the sticker system currently used by Makers Academy. It was built in a short 2 day hackathon style event (although is fully tested!). Available in the wild [here](https://netstix.herokuapp.com/) | JavaScript, NodeJS, ExpressJS, MongoDB /w Mongoose, AngularJS, HTML5, CSS3 | Jasmine, Frisby, Karma, Protractor
-[NotInstagram](https://github.com/michaellennox/instagram-challenge) | A small instagram clone written over a weekend during the Makers Academy course | Ruby, Rails, Postgres /w ActiveRecord, HTML5, CSS3 | RSpec, Capybara
-[Chitter](https://github.com/michaellennox/chitter-challenge) | Another small clone (with just as inventive a name). Written over a weekend during my first month at makers. It is available in the wild [here](http://chitter.michaellennox.me/) | Ruby, Sinatra, Postgres /w DataMapper, HTML5, CSS3 | RSpec, Capybara
+[NotInstagram](https://github.com/michaellennox/instagram-challenge) | A small instagram clone written over a weekend during the Makers Academy course | Ruby, Rails, Postgres /w ActiveRecord, HTML5(HAML), CSS3 | RSpec, Capybara
+[Chitter](https://github.com/michaellennox/chitter-challenge) | Another small clone (with just as inventive a name). Written over a weekend during my first month at makers. It is available in the wild [here](http://chitter.michaellennox.me/) | Ruby, Sinatra, Postgres /w DataMapper, HTML5(ERB), CSS3 | RSpec, Capybara
 [Personal Site](https://github.com/michaellennox/michaellennox.github.io) | My personal website written before I started at Makers. Certain elements need updating to my current level. My blog can be found in the wild [here](http://www.michaellennox.me/blog/) | HTML5, CSS3, Jekyll | -
 
 ## Hackathons
 
 __MondoHack \#IV (_16th-17th Apr 2016_)__
 
-_Upcoming, who knows!_
+_Upcoming, who knows?_
 
 __Tesla and Wider EV Ecosystem - Hackathon 1.0 (_27th Feb 2016_)__
 
