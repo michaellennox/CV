@@ -32,7 +32,7 @@ Currently looking for a role which gives me the opportunity to continue progress
 
 * Currently working as an alumni helper at Makers Academy where I help current students with problems and development concepts
 * Previously have trained and mentored juniors in sales positions who have gone on to be very successful in their fields
-* Have a very large amount of patience and find helping others develop and grow truly exciting
+* Very patient and find helping others develop and grow truly exciting
 
 ## Projects
 
